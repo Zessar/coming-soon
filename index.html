@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/index.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+  <title>Frontend Mentor | Base Apparel coming soon page</title>
+
+</head>
+
+<body>
+
+  <header class="header">
+    <img src="./images/logo.svg" alt="Logotipo de la empresa" class="header__logo-mobile">
+    <img src="./images/hero-mobile.jpg" alt="Imagen de chica publicidad" class="header__img-mobile">
+  </header>
+  <main class="main">
+    <section class="section__left">
+      <img src="./images/logo.svg" alt="logotipo empresa" class="img__logo-desktop">
+      <h1 class="main__h1" role="heading"><span>We're</span> coming soon</h1>
+      <p class="main__p" role="definition">Hello fellow shoppers! We're currently building our new fashion store. Add
+        your
+        email below to stay up-to-date with announcements and our launch deals.</p>
+      <form id="form" role="form">
+        <input id="email" type="text" name="email" placeholder="Email Address" class="input">
+        <button type="submit" class="button"><img src="./images/icon-arrow.svg" alt="button" role="button" class="button__img"></button>
+        <img src="./images/icon-error.svg" alt="error__msg" id="errorId" class="error__msg">
+        <p id="error" class="error__msg-p">Please provide a valid email</p>
+      </form>
+    </section>
+    <section class="section__right">
+      <img src="./images/hero-desktop.jpg" alt="Imagen de chica publicidad" class="right__img">
+    </section>
+  </main>
+  <footer>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="https://www.frontendmentor.io/profile/Zessar">Cesar Sequera</a>.
+    </p>
+  </footer>
+  <script src="./js/index.js"></script>
+</body>
+
+</html>
