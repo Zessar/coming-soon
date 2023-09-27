@@ -1,4 +1,4 @@
-# Frontend Mentor - Acordeon
+# Frontend Mentor - Coming Soon
 
 Los usuarios deberían poder:
 
@@ -7,51 +7,44 @@ Los usuarios deberían poder:
 
 ### Captura de pantalla
 
-![](capturas/Captura%20de%20pantalla%202023-09-19%20110327.png)
-![](capturas/Captura%20de%20pantalla%202023-09-19%20110334.png)
-![](capturas/Captura%20de%20pantalla%202023-09-19%20110341.png)
-![](capturas/Captura%20de%20pantalla%202023-09-19%20110355.png)
-![](capturas/Captura%20de%20pantalla%202023-09-19%20110404.png)
+![](capturas/Captura%20de%20pantalla%202023-09-27%20151254.png)
+![](capturas/Captura%20de%20pantalla%202023-09-27%20151303.png)
+![](capturas/Captura%20de%20pantalla%202023-09-27%20151337.png)
+![](capturas/Captura%20de%20pantalla%202023-09-27%20151352.png)
+![](capturas/Captura%20de%20pantalla%202023-09-27%20151402.png)
 
 
 ### Links
 
-- Solution URL: [Añado la URL de la solucion](https://github.com/Zessar/AcordeonCesar)
-- Live Site URL: [Add live site URL here](https://zessar.github.io/AcordeonCesar/)
+- Solution URL: [Añado la URL de la solucion](https://github.com/Zessar/coming-soon)
+- Live Site URL: [Add live site URL here](https://zessar.github.io/coming-soon/)
 
-## Mi proceso
+## MI PROCESO:
 
 ### Construido con
-
 - Marcado semántico HTML5
 - Propiedades personalizadas de CSS
-- JavaScript controladores del DOM
+- JavaScript validacion de Formulario.
 
 ### Que aprendi
-Realizado con maquetacion Flex, sin problemas aparentes, sencillo de posicionar, muy gracioso lo del "box", ya que dejarlo en esa posicion ha estado interesante. Y un gran dolor de cabeza con el javascript, he interiorizado algunos conceptos que debo de pulir, pero poco a poco.
+Realizado con maquetacion Flex, esta vez he pensado un poco en como realizar la estructura, asi que creo que mal del todo no habra ido, respecto al css, tambien pienso que lo he realizado bien, y js, bueno ha sido algo nuevo para mi, la verdad que en los cursos que he realizado no te enseñan este tipo de validacion, hay si que me ha tocado buscar y darme cuenta que necesito pasar por un curso o mirar la documentacion para las validaciones.
 
 ### HTML
-
-Sin mucho que añadir, seguro que podria haberlo optimizado mucho mas, tendria que cuidar mucho mas la sintaxis, y empezar a darle mas propiedades a los elementos, estilo "role", cuidar mas las clases, pero de momento hasta aqui llego por que me estoy fijando mas como poder cuadrarlo todo para que la maquetacion me resulte mas facil.
+Sin mucho que añadir, creo que esta vez voy bien encaminado, les he pueso roles, creo que la maquetacion ha sido la correcta.
 
 ### CSS
-
-En CSS, ha tenido sus retos, ha sido interesante, y aun asi podria haberme ahorrado unas lineas de codigo, mejor especificacion, e incluso empezar a meter metodos de buenas practicas.
+En CSS, tras tener una buena estructura no ha habido problemas aparentes, la especificidad creo que tambien esta bien.
 
 ### JavaScript
-
-Y que decir de JS, complicado para mi, incluso hay algo que se me escapa y no puedo con ello, pero al final el resultado al 90% esta hay, se que es una pieza bastante facil de realizar, pero a mi en especial me acostado, entiendo que con la practica no me resulte tan dificil.
+Nunca habia validado un formulario, asi que he tenido que buscar informacion de ello, y creo que ha quedado bien.
 
 ### Desarrollo continuo
-
-Segunda maquetacion Flex, hare unas cuantas mas con este metodo y pasare a Grid.
+Quinta maquetacion Flex, hare unas cuantas mas con este metodo y pasare a Grid.
 
 ### Recursos utiles
-
-- Para este proyecto he utilizado CodeAcademy y Eduardo Fierro(youtube).
+- Para este proyecto he utilizado CodeAcademy y Stack OverFlow y documentacion oficial.
 
 ## Autor
-
 - Git Hub - [zessar](https://github.com/Zessar)
 - Frontend Mentor - [@Zessar](https://www.frontendmentor.io/profile/Zessar)
 
